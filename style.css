@@ -1,0 +1,72 @@
+body
+{
+    background-size:cover;
+    background-position:center;
+}
+.head
+{  
+    font-family:'Times New Roman', Times, serif;
+    font-style:italic;
+    font-size: 20px;
+    color:white;
+    border-color:blue;
+    border-radius: 5px;
+    border-width: 2px;
+    border-style:solid;
+    width:60%;
+    height:8%;
+    box-shadow:5px 5px 18px rgb(131, 131, 255);
+}
+.b
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:italic;
+    font-size:20px;
+    color:white;
+    background-color:pink;
+    border-color:red;
+    border-style:ridge;
+    width:40%;
+    height:7%;
+    box-shadow: 5px 5px 18px rgb(195, 0, 255)
+
+}
+.login_div img 
+{
+    width:150px;
+    height:150px;
+    border-color:black;
+    border-width: 3px;
+    border-style:ridge;
+}
+
+.login_div
+{
+    float: none;
+    border-radius: 15px;
+    width:60%;
+    border-width:2.5px;
+    border-style:ridge;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:italic;
+    font-size:20px;
+    background-color:pink;
+    border-color:red;
+    border-style:ridge;
+    box-shadow: 5px 5px 18px rgb(195, 0, 255)
+}
+
+.j
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:italic;
+    font-size:20px;
+    color:red;
+}
+button
+{
+    font-family:'Times New Roman', Times, serif;
+    font-style:italic;
+    width:30%;
+
+}

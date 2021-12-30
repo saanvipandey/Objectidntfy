@@ -1,0 +1,48 @@
+body
+{
+    background-size:cover;
+    background-position: center;
+}
+.head
+{
+    font-family:'Times New Roman', Times, serif;
+    font-style:italic;
+    font-size: 20px;
+    color:white;
+    border-color:blue;
+    border-radius: 5px;
+    border-width: 2px;
+    border-style:solid;
+    width:50%;
+    height:8%;
+    box-shadow:5px 5px 18px rgb(131, 131, 255);
+}
+
+.h
+{
+    width:10%;
+
+}
+canvas 
+{
+   box-shadow: 10px 10px 10px grey;
+   border-radius:10px;
+}
+
+
+#number_of_objects, #status
+{
+    font-size:20px;
+}
+.m
+{
+    font-family:'Times New Roman', Times, serif;
+    font-style:italic;
+    font-size: 10px;
+    color:white;
+    border-radius: 5px;
+    border-width: 2px;
+    border-style:solid;
+    width:25%;
+    height:6%;
+}
